@@ -1,5 +1,5 @@
 {
    "status": true,
    "password": "anudev",
-   "allowedIps": ["123.456.789.10", "111.222.333.44"]
+   "allowedIps": ["128.199.157.202"]
 }
