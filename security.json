@@ -1,5 +1,4 @@
 {
-    "validTokens": [
-        "7711761403:AAEvuV80JbyB8C2lpeW-MhiHfNPzLOEYbW0",
-    ]
+   "status": true,
+   "allowedIps": ["123.456.789.10", "111.222.333.44"]
 }
